@@ -107,4 +107,10 @@ Here’s an explanation of the column headings:
 On Mars, the coldest average minimum temperature occurs in the third month, while the warmest month is the eighth. However, it's important to note that even the warmest temperatures on Mars are extremely cold by human standards. Regarding atmospheric pressure, it is at its lowest in the sixth month and peaks in the ninth. The time span between these pressure peaks is approximately 675 days. This analysis suggests that a Martian year is roughly 675 days long, which aligns closely with the fact that a Mars year is known to be about 687 Earth days, as confirmed by additional research
 
 
+## Resources
+- [Mars News](https://static.bc-edx.com/data/web/mars_news/index.html)
+- [Mars Temperature Data](https://static.bc-edx.com/data/web/mars_facts/temperature.html)
+
+---
+
 [- BACK TO TOP -](#mars-report)
