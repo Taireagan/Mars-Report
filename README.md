@@ -1,5 +1,10 @@
 # Mars Report
 
+![9283_1-Illustration-of-SHIELD-320x240](https://github.com/Taireagan/Mars-Report/blob/main/Images/9283_1-Illustration-of-SHIELD-320x240.jpeg)
+![9299_maven-vertical-limb-320x240](https://github.com/Taireagan/Mars-Report/blob/main/Images/9299_maven-vertical-limb-320x240.jpeg)
+![9292_PIA25287-320x240](https://github.com/Taireagan/Mars-Report/blob/main/Images/9292_PIA25287-320x240.jpeg)
+
+
 ## Background
 You have been assigned a project to develop a comprehensive report on Mars, which involves scraping and analyzing data from various sources. The project consists of two main deliverables:
 
